@@ -1,0 +1,4 @@
+repository "Shapes Survivor@adamadamec2@cloud"
+  path "/"
+    br "/main"
+    co "/main"
